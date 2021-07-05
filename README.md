@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @guilherme-tavares-py
+- 👋 Hi, I’m Guilherme Tavares
 - 👀 I’m interested in HTML, CSS, JAVASCRIPT
 - 🌱 I’m currently learning PHP, MySQL
 - 💞️ I’m looking to collaborate on open source projects
