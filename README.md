@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Guilherme Tavares
-- 👀 I’m interested in HTML, CSS, JAVASCRIPT
+- 👀 I’m interested in HTML, CSS, JAVASCRIPT, JAVA
 - 🌱 I’m currently learning PHP, MySQL
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 How to reach me is by inbox, gui.tavares2002.contato@gmail.com
